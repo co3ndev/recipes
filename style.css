@@ -14,8 +14,10 @@ body {
 
 a {
     text-decoration: none;
-    color: black;
+    color: #333;
     margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
 }
 
 a:hover {
